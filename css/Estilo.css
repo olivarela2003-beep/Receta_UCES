@@ -1,0 +1,96 @@
+h1
+{color: #ffc300}
+
+.verde
+{color: #008000}
+body{
+	background-color:  #fde9c3;
+}
+
+main{ 
+width: 960px ;
+background-color:#fedf8a ;
+border-color: #black;
+border-style: solid;
+border-width: 2px;
+margin-left: auto;
+margin-right: auto;
+ }
+
+
+ header{ 
+height:110px ;
+width:600px ;
+background-color:#5e2404 ;
+float: left;
+ }
+
+
+
+ nav{ 
+height:110px ;
+width:360px ;
+background-color:#dda15e ;
+float: right;
+ }
+
+
+ section{ 
+height:1750px ;
+width:960px ;
+background-color:#fefae0;
+ }
+
+ p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    margin-left: 20px;
+}
+
+ul, ol{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img{
+  margin-left: 260px;
+    margin-right: 20px;
+}
+
+
+ footer{ 
+}
+height:80px ;
+width:960px ;
+background-color:##fedf8a ;
+ }
+
+ .header-container {
+
+  position: relative;
+
+  width: 100%;
+
+  height: 100px; 
+
+}
+
+#miLogo {
+
+  position: absolute;
+
+  top: 25px;
+
+  left: 45px; 
+  }
+  H1 {font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+    .h1-Olivia-Varela{color: #5e2404;}
